@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FrameIt/.idea/FrameIt.iml" filepath="$PROJECT_DIR$/../FrameIt/.idea/FrameIt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GreatPianoService/.idea/GreatPianoService.iml" filepath="$PROJECT_DIR$/../GreatPianoService/.idea/GreatPianoService.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tango_with_jango_project.iml" filepath="$PROJECT_DIR$/.idea/tango_with_jango_project.iml" />
     </modules>
   </component>
