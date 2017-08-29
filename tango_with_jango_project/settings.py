@@ -18,15 +18,15 @@ TEMPLATES_DIR = os.path.join(BASE_DIR, 'templates')
 STATIC_DIR = os.path.join(BASE_DIR, 'static')
 MEDIA_DIR = os.path.join(BASE_DIR, 'media')
 
-# print(BASE_DIR)
-# print(TEMPLATES_DIR)
-# print(STATIC_DIR)
-# print(MEDIA_DIR)
+#print(BASE_DIR)
+#print(TEMPLATES_DIR)
+#print(STATIC_DIR)
+#print(MEDIA_DIR)
 #
 #
 #
-# print(__file__)
-# print(os.path.dirname(__file__))
+#print(__file__)
+#print(os.path.dirname(__file__))
 # print(os.path.dirname(os.path.dirname(__file__)))
 
 
@@ -51,7 +51,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'rango'
+    'rango',
+
 ]
 
 MIDDLEWARE = [
